@@ -1,0 +1,11 @@
+c:\users\bpm8lck\source\repos\ReportingToolApi\ReportingToolApi\bin\Debug\netcoreapp2.0\ReportingToolApi.deps.json
+c:\users\bpm8lck\source\repos\ReportingToolApi\ReportingToolApi\bin\Debug\netcoreapp2.0\ReportingToolApi.runtimeconfig.json
+c:\users\bpm8lck\source\repos\ReportingToolApi\ReportingToolApi\bin\Debug\netcoreapp2.0\ReportingToolApi.runtimeconfig.dev.json
+c:\users\bpm8lck\source\repos\ReportingToolApi\ReportingToolApi\bin\Debug\netcoreapp2.0\ReportingToolApi.dll
+c:\users\bpm8lck\source\repos\ReportingToolApi\ReportingToolApi\bin\Debug\netcoreapp2.0\ReportingToolApi.pdb
+c:\users\bpm8lck\source\repos\ReportingToolApi\ReportingToolApi\obj\Debug\netcoreapp2.0\ReportingToolApi.csprojAssemblyReference.cache
+c:\users\bpm8lck\source\repos\ReportingToolApi\ReportingToolApi\obj\Debug\netcoreapp2.0\ReportingToolApi.csproj.CoreCompileInputs.cache
+c:\users\bpm8lck\source\repos\ReportingToolApi\ReportingToolApi\obj\Debug\netcoreapp2.0\ReportingToolApi.AssemblyInfoInputs.cache
+c:\users\bpm8lck\source\repos\ReportingToolApi\ReportingToolApi\obj\Debug\netcoreapp2.0\ReportingToolApi.AssemblyInfo.cs
+c:\users\bpm8lck\source\repos\ReportingToolApi\ReportingToolApi\obj\Debug\netcoreapp2.0\ReportingToolApi.dll
+c:\users\bpm8lck\source\repos\ReportingToolApi\ReportingToolApi\obj\Debug\netcoreapp2.0\ReportingToolApi.pdb
